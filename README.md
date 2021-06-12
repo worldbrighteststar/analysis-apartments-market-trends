@@ -112,8 +112,9 @@ node app {YOUR PORT NUMBER}
 ![KakaoTalk_20210611_232502047](https://user-images.githubusercontent.com/70676394/121701880-53265800-cb0c-11eb-8cf2-712e26aa86b9.gif)
 
 
-## Contributors
-me.
-@yeonsssu26
-@Xeronique
-@dpel959
+# Member
+- [worldbrighteststar](https://github.com/worldbrighteststar)
+- [yeonsssu26](https://github.com/yeonsssu26)
+- [Xeronique](https://github.com/Xeronique)
+- [dpel959](https://github.com/dpel959)
+

@@ -35,7 +35,7 @@ cd /home/hadoop/zeppelin-0.8.2-bin-all/bin
 ![image](https://user-images.githubusercontent.com/70676394/121698213-bf06c180-cb08-11eb-91ea-6d378e0cbb2b.png)
 
 ```
-zeppelin web ui에서 최초 1회 tempview 생성후에 웹 기능을 사용할 수 있다.
+zeppelin tempview 생성.
 ```
 
 2. visualization
